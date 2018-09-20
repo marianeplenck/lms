@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(144, 220, 250);
+    font-family: 'Montaga', serif;
+    
+}
+
+
+.cabecalho{
+    float: left;
+    margin: 70px;
+    
+
+}
+
+
+
+.imagem{
+    width:"25%";
+    height:"25%";
+    margin-top: -35px;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(30, 68, 236);
+    color:black;
+    text-align: center;
+}
+
+.home{
+    color:blue;
+
+}
+
+.listadecursos{
+    color: red;
+
+}
+
+.detalhedecurso{
+        color:green;
+}
+
+.disciplinas{
+    color:purple;
+
+}
+
+.noticias{
+    color:darkblue;
+}
